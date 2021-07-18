@@ -1,5 +1,5 @@
 # Project-Lasso
-Welcome to project lasso, or CoinMaster, as I like to call it. This project was worked on under the course CS101. 
+Welcome to project lasso, or CoinMaster, as I like to call it. This project was completed under the course CS101. 
 ### main.cpp contains all the codes. Content of different files are indicated by comments("// filename")
 
 * If you already have code blocks with simplecpp, download main.cpp and start working.
